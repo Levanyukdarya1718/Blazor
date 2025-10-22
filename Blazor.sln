@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36429.23 d17.14
+VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroductionToBlazor", "IntroductionToBlazor\IntroductionToBlazor.csproj", "{CF29FC9B-5BDA-4CE4-A3AA-43D5937C5891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TODOlist", "TODOlist\TODOlist.csproj", "{F73742BB-E651-40AC-B660-1974B9743BE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies", "Movies\Movies.csproj", "{FF74BF81-039E-4D61-8BBD-0B18853A5464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAcademy", "BlazorAcademy\BlazorAcademy.csproj", "{9270766D-C8DD-45A9-93D5-6564AB1E9D9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{CF29FC9B-5BDA-4CE4-A3AA-43D5937C5891}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF29FC9B-5BDA-4CE4-A3AA-43D5937C5891}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF29FC9B-5BDA-4CE4-A3AA-43D5937C5891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73742BB-E651-40AC-B660-1974B9743BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73742BB-E651-40AC-B660-1974B9743BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73742BB-E651-40AC-B660-1974B9743BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73742BB-E651-40AC-B660-1974B9743BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF74BF81-039E-4D61-8BBD-0B18853A5464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF74BF81-039E-4D61-8BBD-0B18853A5464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF74BF81-039E-4D61-8BBD-0B18853A5464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF74BF81-039E-4D61-8BBD-0B18853A5464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9270766D-C8DD-45A9-93D5-6564AB1E9D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9270766D-C8DD-45A9-93D5-6564AB1E9D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9270766D-C8DD-45A9-93D5-6564AB1E9D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9270766D-C8DD-45A9-93D5-6564AB1E9D9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
